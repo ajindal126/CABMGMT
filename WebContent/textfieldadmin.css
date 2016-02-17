@@ -1,0 +1,46 @@
+/* CSS Document */
+.main2 #form1 #carname {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	height: 22px;
+	width: 215px;
+	margin: 2px;
+	padding: 2px;
+}
+.main2 #form1 #carno {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	height: 22px;
+	width: 215px;
+	margin: 2px;
+	padding: 2px;
+}
+.main2 #form2 #name {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	height: 22px;
+	width: 215px;
+	margin: 2px;
+	padding: 2px;
+}
+.main2 #form2 #address {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	height: 22px;
+	width: 215px;
+	margin: 2px;
+	padding: 2px;
+}
+.main2 #form2 #license {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	height: 22px;
+	width: 215px;
+	margin: 2px;
+	padding: 2px;
+}
